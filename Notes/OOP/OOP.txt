@@ -1,0 +1,18 @@
+OOP's stands for Object Oriented Programing and S stands for structure or system.
+
+These are 4 basic Pillars of OOP's
+1: Encapsulation
+2: Abstraction
+3: Inheritance
+4: Polymorphism
+
+Note:: These are processes of OOP's 
+
+* Object is real life entity and it is Physically 
+* Class is virtual entity and it is category
+EXAMPLE:: Consider Animal as a class and cat or dog as an Object
+NOTE:: We made objects using classes
+
+* Classes has data members like car class may have data members like color, modelNo etc and member function like horn, milage etc.
+
+Encapsulation:- Wrapping of data into single unit is known as encapsulation. For exp you created class car and it has member function like model number, color etc and you create variables and methods in it so basically this process is known as encapsulation.

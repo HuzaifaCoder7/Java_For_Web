@@ -1,0 +1,12 @@
+* One Object inherit(gain) all the properties and behaviors of a Parent object but not class.
+* One class which tends another class.
+* Object holds value class does not.
+
+* In Java there are 5 types of inheritance:
+ 1: Single level [ When you are extending one class ] 
+ 2: Multi-level [ When you are extending one class and again create new class and extends second one ]
+ 3: Multiple [ When you are extending properties from 2 classes to one ]
+ 4: Hybrid [ When you are using mixture of 2 inheritances ]
+ 5: Hierarcial [ When 2 classes are extending from 1 class ]
+
+* In Java Multiple inheritance is not possible but we can achieve using "Interface".

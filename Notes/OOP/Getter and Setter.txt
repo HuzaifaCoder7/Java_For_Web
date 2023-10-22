@@ -1,0 +1,7 @@
+* We use Getters and Setters in Encapsulation so we can add protection to our data. By using getter we get the data and we can set value by
+setter method. We can allow some user get method and some user set method. For exp If you hire manager for your website then you would
+allow setter method to your manager so he can set some values on website and you would not want that user want to set the value so you 
+would allow user to only get value.
+
+* Packages is a collection of classes and sub-classes in Java.
+     Syntax ===> import packageName.*;

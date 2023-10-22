@@ -1,0 +1,5 @@
+Constructor is a method with class name but with no return type
+* If we create private constructor then we cannot create object from it.
+* Encapsulation is uncomplete without getter and setter.
+
+* Encapusltion is Data hiding whereas Abstraction is Implementation hiding

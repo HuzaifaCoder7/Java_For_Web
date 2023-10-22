@@ -1,0 +1,13 @@
+* Mehtods have four types:
+ 1: Return type
+ 2: Return type with Parameters
+ 3: Non-return type
+ 4: Non-return type with Parameters
+
+* Class have 2 types:
+ 1: In built
+ 2: Self made
+
+* Collection framework is a Java library which has built in function like ArrayList, LinkedList, Hashing etc
+
+* Recursion is method which repeats its self { Factorial, Fibonacci }

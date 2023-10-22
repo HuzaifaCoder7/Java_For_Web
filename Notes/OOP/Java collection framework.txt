@@ -1,0 +1,59 @@
+Java collection framework is a library of different Data structures and Algorithm like searching, sorting, insertion, linkedlist, arraylist
+etc. 
+
+* In Java Collection Framework there are two types:
+   1: Collection Interface [ Use for single values ]
+   2: Map Interface [ Use for group values ]
+
+* The root interface of Collection framework is Iterable. It is univeral method which provides functionality to iterate through all values of collection.
+
+* Interface objects cannot be created only classes objects can be created in Java.
+
+* Class always implement the interface methods.
+
+* Wrapper class is parent class of Primitive data types like int, float, char etc.
+
+* Generics are <> and in them we write wrapper class while creating data structure like ArrayList, Linkedlist etc.
+
+========================================================================================================
+
+* List is an ordered collection which saves data in order. It also holds duplicate values in it.
+==> Arraylist in the back stores data in Array.
+==> Linkedlist in the back stores data in Nodes.  
+==> Vector and Arraylist are kind of same but main difference is that ArrayList is non-Synchronised and Vector is synchronised. That's why
+         ArrayList is faster than Vector. ArrayList implements Multi-threading concept whereas Vector does not. Vector is also considered  
+         safe.
+==> Stack is also in List category and It works on LIFO [ Last In First Out ]
+
+=========================================================================================================
+
+* Set is an unordered collection which does not save data in order and it does not hold any duplicate values it only holds unique value.
+==> HashSet uses two methods "Hash" and "Set" . Set is used to maintain uniqueness while Hash is used to speed up.
+==> LinkedHashSet is collection of "LinkedList" and "HashSet" it uses linkedlist for storing data in order and hashset for unique and
+         speed up.
+==>  Treeset is a sorting set which means that it holds unique values like set and maintain sorting like tree. Sorting means that values
+         are displayed in increasing order.
+
+=========================================================================================================
+
+* Queue is an unordered collection which does not save data in order and it holds duplicate values. It works of FIFO [ First In First Out ].
+   Meaning the value which is added first will also be removed first. In Queue you can use some methods of LinkedList like 'add' or  'remove'
+  but it is recomended not to use LinkedList methods bcz they can give exception so only use queue methods like 'offer' for add and 'poll'  for remove. 'offer' method return true if value is added and false when not added.  
+==> We can use LinkedList using queue. 
+==> In Dequeue we can add elements from both side of the queue.
+==> In Java priority queue gives minimum whereas in C++ it gives maximum. If we use (comparator.reverseorder() ) in PriorityQueue
+        then it will give us maximum value first rather than minimum value.
+=========================================================================================================
+
+* Map comes in Collection Framework not Collection Interface. It stores data in keys and values. The keys in Maps are unique but values
+  can be duplicate. It used for group values.
+==> HashMap gives you unordered map.
+==> TreeMap gives you sorted map means value in it are in order.
+
+=========================================================================================================
+
+* We can iterator to iterate over different data structures like arrays, list, queues, stack etc. It has function 'next' to print value one by
+  one and you can put while loop and in that while loop you can put IteratorName.hasnext() and this gives us true if it has next value
+  and false if it has not next value.
+
+* There is also Arrray class in Java which you can use to sort, find min and max values of array.

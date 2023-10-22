@@ -1,0 +1,6 @@
+ System.out.println("Hello Huzaifa");
+  |      |       |          |
+class   object  method     parameters
+
+Q. What is difference b/w methods and Function?
+A: Method is associated with object while function is not.

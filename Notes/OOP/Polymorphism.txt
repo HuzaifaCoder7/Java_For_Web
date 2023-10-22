@@ -1,0 +1,15 @@
+Polymorphism is derived from 2 words. "Poly" means many and "morphism" means forms. We can achieve Polymorphism by 2 ways:
+ 1: Compile time polymorphism --> [ Method Overloading ] --> Also known as Static type polymorphism
+ 2: Run-time polymorphism --> [ Method Overriding ] --> Also known as Dynamic type polymorphism
+
+* METHOD-OVERLOADING: In this we can create 2 methods with same name within same class but we have to change following:
+  1: It should change return type OR
+  2: It should change number of Parameters OR
+  3: It should change type of Parameters
+
+* METHOD-OVERRIDING: It is same as method-overloading but it is within different classes.
+
+* There are 3 types of variables in Java OOP:
+   1: Global
+   2: Local
+   3: Instance [ Object related ]

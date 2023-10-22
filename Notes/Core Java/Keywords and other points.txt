@@ -1,0 +1,9 @@
+* Static is a keyword that is used for memory management and if you use Static keyword then you can accesss it
+throughout the program.
+
+* Package is collection of classes and sub-classes.
+
+* For Encapsulation we use getters & setters with the concept of getter & setter we can take an example that
+  imagine you have empId variable in class you would not want that anybody can edit that empId so you would 
+  declare it private and you would grant access to specific user with getter&setter. You would use setter so 
+  only you can set Id and you would use getter so anybody can see that but cannot edit that.

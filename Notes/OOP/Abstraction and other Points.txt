@@ -1,0 +1,12 @@
+Abstraction is a process in which we hide background implementation details. It only provides that information
+which company provides or essential information which user wants.
+* We can achieve abstraction by 2 methods:
+ 1: By "abstract" keyword
+ 2: By Interface [ BluePrint ]
+
+* We can achieve 100% percent abstraction using interface.
+
+* If we create a class abstract than we cannot create object of that.
+
+* It only contains the declaration if you want implementation then you have to create another class and use
+  'extends' for 1 and use 'implements' for 2.

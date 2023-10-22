@@ -1,0 +1,4 @@
+* 'this' keyword  is used to refer current reference.
+
+* 'final' keyword is used to declare a method final so it cannot be overridden. It can also be used in class. If we use final keyword in Parent
+class, we will not be able to extend our child class. Means Inheritance and Polymorphism is not possible with 'final' keyword.

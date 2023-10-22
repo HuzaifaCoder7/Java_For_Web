@@ -1,0 +1,13 @@
+* You need DriverManager to connect Java to DB btw you don't have to explicitly add it.
+There are following steps connect to MySQL server:
+1: Driver load          --> Not necessary for Modern Java
+2: Connection establish
+3: creating Statement
+4: Execute Statement
+5: Closing connection
+
+* You can get your port by opening "SQL Command Line" and enter "select @@port;"
+
+* Add url = "jdbc:mysql://localhost:port/";
+
+* Get username by opening "SQL Command Line" and enter "select user();"

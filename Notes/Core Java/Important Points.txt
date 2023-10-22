@@ -1,0 +1,20 @@
+
+1: Class is the logical entity and Object is physical entity.
+--> Consider class as a category just like animals. Animal is a category and cat is a object. Here animal is a Class
+    and cat is an Object.
+--> Class is a keyword.
+
+2: In class you will see three things:
+   (i)    Data Members
+   (ii)   Methods or Member function
+   (iii)  Constructor
+-->  Our main [ public static void main(String[] args) ] lies in Method(ii) category.
+
+3: Keywords are the words which have special meaning in Programing language.
+
+4: Java is an OOP language it means you would always make an class and write your program in it [ .... ]
+
+5: In Java String is a class that's why we have to capitalize its first letter while other int, char, float are
+   considered data-types.
+
+6: Java is not fully Object-Oriented.
